@@ -1,4 +1,5 @@
 import React from "react"
+import AboutUs from "../components/AboutUs"
 import Hero from "../components/Hero"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,6 +12,7 @@ const IndexPage = () => (
     <Hero />
     <Trips Heading="Our top destinations" />
     <Testimonials />
+    <AboutUs />
   </Layout>
 )
 
