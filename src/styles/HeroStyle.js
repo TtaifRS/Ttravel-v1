@@ -66,6 +66,10 @@ export const HeroItem = styled.div`
     letter-spacing: 2px;
     margin-bottom: 1.5rem;
     padding: 0 1rem;
+
+    Span {
+      color: #f26a2e;
+    }
   }
 
   p {

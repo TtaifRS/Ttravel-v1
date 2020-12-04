@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "title": "Klingking Beach",
+        "alt": "klingking beach",
+        "button": "Discover Bali"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "title": "Saafu Point",
+        "alt": "Saafu Point",
+        "button": "Discover Maldives"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "title": "Hawa Mahal",
+        "alt": "Hawa Mahal",
+        "button": "Discover India "
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "title": "Ninh Bình Province",
+        "alt": "Ninh Bình Province",
+        "button": "Discover Vietnam"
+    }
+]

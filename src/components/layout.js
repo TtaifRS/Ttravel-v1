@@ -1,6 +1,5 @@
 import React from "react"
 import Header from "./header"
-import "fontsource-inter"
 import { GlobalStyle } from "../styles/GlobalStyle"
 
 const Layout = ({ children }) => {

@@ -1,10 +1,10 @@
 import { createGlobalStyle } from "styled-components"
-
+import "fontsource-montserrat"
 export const GlobalStyle = createGlobalStyle`
     *{
-        font-family: 'Inter', sans-serif;
+        font-family: 'Montserrat', sans-serif;
         margin: 0;
-        pad: 0;
+        padding: 0;
         box-sizing: border-box;
     }
 
