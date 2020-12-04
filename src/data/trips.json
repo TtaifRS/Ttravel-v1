@@ -6,16 +6,16 @@
         "button": "Discover Bali"
     },
     {
-        "img": "../assets/images/travel-2.jpg",
-        "title": "Saafu Point",
-        "alt": "Saafu Point",
-        "button": "Discover Maldives"
-    },
-    {
         "img": "../assets/images/travel-3.jpg",
         "title": "Hawa Mahal",
         "alt": "Hawa Mahal",
         "button": "Discover India "
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "title": "Saafu Point",
+        "alt": "Saafu Point",
+        "button": "Discover Maldives"
     },
     {
         "img": "../assets/images/travel-4.jpg",

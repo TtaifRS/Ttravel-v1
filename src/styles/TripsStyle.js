@@ -40,7 +40,7 @@ export const ProductImg = styled(Img)`
   max-width: 100%;
   position: absolute;
   border-radius: 10px;
-  filter: brightness(60%);
+  filter: brightness(70%);
   transition: 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
 
   &:hover {
@@ -63,7 +63,7 @@ export const TextWrap = styled.div`
   align-items: center;
   position: absolute;
   top: 375px;
-  color: #f26a2e;
+  color: #fff;
 `
 export const ProductTitle = styled.div`
   font-weight: 600;
